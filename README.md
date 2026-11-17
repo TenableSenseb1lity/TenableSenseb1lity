@@ -1,16 +1,23 @@
-## Hi there 👋
 
-<!--
-**TenableSenseb1lity/TenableSenseb1lity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Alex! 👋
 
-Here are some ideas to get you started:
+### 🌱 About Me
+- I'm new to programming.
+- Currently learning how to code.
+- Interested in software development and technology.
+- Excited to build my first projects.
+- My goal is to become a better developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills I'm Learning
+- Python
+- VS code
+- Git and GitHub
+
+### 📖 My Learning Journey
+I'm currently exploring programming, learning the fundamentals, and practising by building small projects.
+
+### 🎯 My Goals
+- Understand how programming works.
+- Create and share projects on GitHub.
+- Continue improving my technical skills.
+
